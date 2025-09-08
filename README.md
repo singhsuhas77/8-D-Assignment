@@ -36,10 +36,6 @@ This project uses the YOLOv9e object detection model to identify and track port-
 
 2.  **Install the required Python libraries:**
     ```bash
-    pip install -r requirements.txt
-    ```
-    If you don't have a `requirements.txt` file, you can install the packages manually:
-    ```bash
     pip install opencv-python numpy ultralytics
     ```
 
